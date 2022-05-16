@@ -7,6 +7,7 @@
 - Florgon account ([profile.florgon.space](https://profile.florgon.space))
 - Florgon for developers (Documentation, developer profile) ([dev.florgon.space](https://dev.florgon.space))
 - Florgon Chat (**Broken, due to auth migration from v1 to v2**) ([chat.florgon.space](https://chat.florgon.space))
+- Florgon Notes (**Mostly broken, will be reworked, later**) ([notes.florgon.space](https://notes.florgon.space))
 - Florgon Gatey (**Not implemented yet**) ([gatey.florgon.space](https://gatey.florgon.space))
 ### APIs.
 - Florgon API (account, oauth API) ([GitHub](https://github.com/florgon/auth-api) , [API endpoint](https://api.florgon.space/auth))
