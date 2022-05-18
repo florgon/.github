@@ -5,6 +5,7 @@
 ### Web.
 - Florgon ([florgon.space](https://florgon.space))
 - Florgon account ([profile.florgon.space](https://profile.florgon.space))
+- Florgon Users (public profile) ([users.florgon.space](https://users.florgon.space/id/1))
 - Florgon for developers (Documentation, developer profile) ([dev.florgon.space](https://dev.florgon.space))
 - Florgon Chat (**Broken, due to auth migration from v1 to v2**) ([chat.florgon.space](https://chat.florgon.space))
 - Florgon Notes (**Mostly broken, will be reworked, later**) ([notes.florgon.space](https://notes.florgon.space))
