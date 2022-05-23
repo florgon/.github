@@ -5,18 +5,16 @@
 ### Web.
 - Florgon ([florgon.space](https://florgon.space))
 - Florgon account ([profile.florgon.space](https://profile.florgon.space))
-- Florgon Users (public profile) ([users.florgon.space](https://users.florgon.space/id/1))
+- Florgon Users (Florgon public profile) ([users.florgon.space](https://users.florgon.space/id/2))
 - Florgon for developers (Documentation, developer profile) ([dev.florgon.space](https://dev.florgon.space))
-- Florgon Chat (**Broken, due to auth migration from v1 to v2**) ([chat.florgon.space](https://chat.florgon.space))
-- Florgon Notes (**Mostly broken, will be reworked, later**) ([notes.florgon.space](https://notes.florgon.space))
-- Florgon Gatey (**Not implemented yet**) ([gatey.florgon.space](https://gatey.florgon.space))
+- Florgon Notes (**API is fine, but web is disabled, will be reworked**) ([notes.florgon.space](https://notes.florgon.space))
+- Florgon Gatey (**Placeholder, WIP**) ([gatey.florgon.space](https://gatey.florgon.space))
 ### APIs.
-- Florgon API (account, oauth API) ([GitHub](https://github.com/florgon/auth-api) , [API endpoint](https://api.florgon.space/auth))
-- Florgon Notes API (**Will be reworked, later**) ([GitHub](https://github.com/florgon/notes-api) , [API endpoint](https://notesapi.florgon.space))
+- Florgon API (Account, OAuth API) ([GitHub](https://github.com/florgon/auth-api) , [API endpoint](https://api.florgon.space))
+- Florgon Notes API ([GitHub](https://github.com/florgon/notes-api) , [API endpoint](https://api.florgon.space/notes))
 - Florgon Gatey API (**Not implemented yet**) ([GitHub](https://github.com/florgon/gatey-api) , [API endpoint](https://api.florgon.space/gatey))
-- Florgon Chat API ([GitHub](https://github.com/florgon/chat-api) , [API endpoint](https://api.florgon.space/chat))
 ### Other.
-- Florgon Auth SDK (JS) ([GitHub](https://github.com/florgon/auth-sdk-js))
+- Florgon API SDK (JS) ([GitHub](https://github.com/florgon/auth-sdk-js))
 # Documentation.
 - Florgon documentation for developers ([dev.florgon.space](https://dev.florgon.space))
 - Florgon OAuth documentation ([dev.florgon.space/oauth](https://dev.florgon.space/oauth))
