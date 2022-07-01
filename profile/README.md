@@ -21,5 +21,5 @@
 - Manage your OAuth clients ([dev.florgon.space/profile](https://dev.florgon.space/profile))
 # Technologies.
 - **Frontend**: NextJS (ReactJS, JavaScript), Bootstrap CSS, 
-- **Backend**: FastAPI (Python), Docker, PostgreSQL.
+- **Backend**: FastAPI (Python), Docker, PostgreSQL. (PyTest for testing, GitHub workflows for CI/CD)
 # Support: [support@florgon.space](mailto:support@florgon.space)
